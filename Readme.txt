@@ -22,6 +22,13 @@ Make sure you got http://gemcutter.org in your gem sources. Then simply
 
 $ sudo gem install sinatra-iphone-views
 
+# Usage
+
+require 'sinatra'
+require 'sinatra/iphone_views'
+
+And you're off and racing.
+
 # Specs
 
 Just run
